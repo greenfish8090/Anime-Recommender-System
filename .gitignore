@@ -1,0 +1,12 @@
+.ipynb_checkpoints
+.idea
+MAL Dataset/dask-worker-space
+MAL Dataset/WatchedRatingList
+MAL Dataset/MAL testing.ipynb
+MAL Dataset/mydask.png
+MAL Dataset/UserList.csv
+MAL Dataset/ul.csv
+MAL Dataset/UserAnimeList.csv
+MAL Dataset/a5000u10k/*
+MAL Dataset/a5000u100k/*
+MAL Dataset/AnimeList.csv
