@@ -1,5 +1,5 @@
 # Anime Recommender System
- A Machine learning model that uses collaborative filtering to generate personalized recommendations to users, written in python using PyTorch, NumPy and Pandas.
+ A Machine learning model that uses collaborative filtering to generate personalized recommendations to users, written in python using PyTorch, NumPy and Pandas. To learn more about the theory, check out the [project page](https://pranavbalaji.me/project/anime-recommender-system/) on my website!
 
 # Dataset and preprocessing
 The dataset used was a subset of the [MyAnimeList dataset](https://www.kaggle.com/azathoth42/myanimelist) which contains around 80 million ratings of 14k anime by 300k users. The 5,000 most popular anime and 100,000 randomly sampled users who rated at least 50 anime were taken as the "cleaned up" dataset with which latent features were trained on. <br>
