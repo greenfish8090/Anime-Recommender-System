@@ -15,9 +15,10 @@ Walkthrough and code can be found in [Training.ipynb](https://github.com/greenfi
 When we need to recommend anime to a user that wasn't part of the 100,000 trained users, we fetch their profile from MyAnimeList using [jikanpy](https://github.com/abhinavk99/jikanpy), train their specific 10 x 1 vector and then use that to predict their ratings.<br>
 The code for this is in [Predict.ipynb](https://github.com/greenfish8090/Anime-Recommender-System/blob/main/Predict.ipynb)
 
-# Future goals
-- [ ] Add content based recommendation
-- [ ] Figure out some way to get new anime ratings without killing the MAL api :P
-- [ ] Understand and implement some of the best performing submissions from the [Netflix Prize](https://en.wikipedia.org/wiki/Netflix_Prize) contest
+# Things to try out
+I don't think I'll work on it anytime soon but if someone wants to take the project further, these are some first steps:
+- Add content based recommendation
+- Figure out some way to get new anime ratings without killing the MAL api :P
+- Understand and implement some of the best performing submissions from the [Netflix Prize](https://en.wikipedia.org/wiki/Netflix_Prize) contest
 
 ### Thanks for reading!
